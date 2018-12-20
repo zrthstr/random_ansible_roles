@@ -1,0 +1,3 @@
+[submodule "arch_basic_server"]
+	path = arch_basic_server
+	url = git@github.com:zrthstr/arch_basic_server.git
